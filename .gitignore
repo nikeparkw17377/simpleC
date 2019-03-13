@@ -1,0 +1,8 @@
+*.suo
+*.user
+*.ncb
+Debug
+Relesae
+bin
+*.tmp
+*.log
