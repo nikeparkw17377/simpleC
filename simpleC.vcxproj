@@ -163,6 +163,7 @@
     <ClCompile Include="simpleC.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="AnotherInfo.txt" />
     <Text Include="HelloGit.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

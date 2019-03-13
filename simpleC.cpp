@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello World!\n"; 
 	std::cout << "Staging modified files\n";
 	std::cout << "Modifies simpleC.cpp again!\n";
+	std::cout << "Modifies simpleC.cpp fourth time!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
