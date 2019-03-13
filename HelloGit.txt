@@ -1,2 +1,0 @@
-Hello, Git!
-This time will be displayed when execute git diff
